@@ -1,1 +1,4 @@
 *.parquet
+xgboost_model.pkl
+.ipynb_checkpoints
+sample_submission.csv
