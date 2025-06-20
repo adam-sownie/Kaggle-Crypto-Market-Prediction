@@ -1,4 +1,7 @@
 *.parquet
 xgboost_model.pkl
-.ipynb_checkpoints
+.ipynb_checkpoints/
 sample_submission.csv
+LElaineDazzio.ipynb
+
+.cursor/
