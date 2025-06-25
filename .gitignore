@@ -3,5 +3,6 @@ xgboost_model.pkl
 .ipynb_checkpoints/
 sample_submission.csv
 LElaineDazzio.ipynb
+catboost_info/
 
 .cursor/
